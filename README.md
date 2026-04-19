@@ -6,7 +6,7 @@ Case studies, working notes, and a User Guide to me. Built over a decade of ship
 
 ## Who this is for
 
-Hiring managers, recruiters, future teammates, or anyone who wants a deeper look at how I think than a resume can show. Resumes tell you what someone has done. This repo tries to show you how they did it, and what they learned along the way.
+Hiring managers, recruiters, future teammates, or anyone who wants a deeper look at how I think than a resume can show. My Resume tells you what I have done. This repo tries to show you how I did it, and what I learned along the way.
 
 If you have ten minutes, the [User Guide](./USER_GUIDE.md) is the fastest way to get a sense of who I am. If you have thirty, pick a case study below.
 
