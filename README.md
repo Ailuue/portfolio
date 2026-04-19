@@ -1,2 +1,2 @@
 # Portfolio
-A guide to how I work, what I bring to a team, and a few case studies from a decade of building software and shipping product. Engineer by trade, communicator by training. Currently exploring product and engineering roles.
+How I work, what I have shipped, and what I have learned along the way. A small collection of case studies, a User Guide to working with me, and the occasional bit of writing on engineering, product, and the space between them.
