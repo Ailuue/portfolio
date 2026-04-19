@@ -24,7 +24,7 @@ Most recently I spent six years as a Lead Engineer at VeVe, a Web3 platform with
 
 A short doc on how I work, what I bring to a team, and how to get the best out of me. Worth reading first.
 
-📄 [Read the User Guide →](./USER_GUIDE.md)
+[Read the User Guide →](./USER_GUIDE.md)
 
 ---
 
@@ -32,7 +32,7 @@ A short doc on how I work, what I bring to a team, and how to get the best out o
 
 Four stories from real work, each focused on a specific skill.
 
-### 🛠️ [Building a Communication Standard Across a 100-Person Org](./case-studies/communication-standard.md)
+### [Building a Communication Standard Across a 100-Person Org](./case-studies/communication-standard.md)
 *Noticing the problem nobody owned, and fixing it through co-creation.*
 
 A document I built with cross-functional input that became the company's communication standard. Still in use after my departure.
@@ -41,7 +41,7 @@ A document I built with cross-functional input that became the company's communi
 
 ---
 
-### 🏗️ [Reframing "Crafting" From a New Section to an Integration](./case-studies/crafting-scope.md)
+### [Reframing "Crafting" From a New Section to an Integration](./case-studies/crafting-scope.md)
 *How the right scope decision saves weeks.*
 
 A feature originally scoped as a separate section of the app. I made the case for integrating it into existing flows. Shipped ahead of schedule, with fewer bugs than any feature that quarter.
@@ -50,7 +50,7 @@ A feature originally scoped as a separate section of the app. I made the case fo
 
 ---
 
-### 🧠 [Closing the Next.js Knowledge Gap Before It Cost Us Months](./case-studies/nextjs-knowledge-gap.md)
+### [Closing the Next.js Knowledge Gap Before It Cost Us Months](./case-studies/nextjs-knowledge-gap.md)
 *Turning a learning curve into a launchpad.*
 
 A migration that needed framework fluency the team did not yet have. I built and delivered an org-wide education session that closed the gap before we hit it.
@@ -59,7 +59,7 @@ A migration that needed framework fluency the team did not yet have. I built and
 
 ---
 
-### ✍️ [Making the Case for My Own Retention](./case-studies/retention-letter.md)
+### [Making the Case for My Own Retention](./case-studies/retention-letter.md)
 *Writing under pressure, when the stakes are personal.*
 
 A single document that combined strategic feedback with self-advocacy. Leadership reversed a decision that had already been made.
